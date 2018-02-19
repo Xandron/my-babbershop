@@ -1,0 +1,70 @@
+body {
+    background: url("../img/bckgr-index.jpg") no-repeat #000000 50% 0;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.header-wrapper {
+    background: black;
+    width: 100%;
+    margin-bottom: 80px;
+}
+.main-nav {
+    margin: 0 auto;
+    width: 940px;
+    min-height: 60px;
+
+}
+.nav-menu ul li, a{
+    float: left;
+    margin-right: 30px;
+    text-decoration: none;
+    padding: 20px 10px;
+    color: white;
+
+}
+.nav-login a{
+    float: right;
+    margin-right: 15px;
+    padding: 20px 10px;
+}
+.main-logo {
+    width:368px;
+    height:204px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+.feature-row {
+    width: 940px;
+    margin: 0 auto;
+
+}
+.feature {
+    width: 300px;
+    height: 180px;
+    float: left;
+    color: #ffff;
+}
+.feature-title {
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 77px;
+}
+.feature-content {
+    padding: 0 15px;
+    text-align: justify;
+    font-weight: 500;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+.content {
+    width: 940px;
+    min-height: 420px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+    background: #ffffff;
+    clear: both;
+}
+.content-news {
+    
+}
